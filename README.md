@@ -1,7 +1,7 @@
 <h2> Hey, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
 
-<p><em>Sherpa Digital at <a href="https://innovaccion.mx/"> Innovacción Virtual by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"></br>GitHub Campus Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"> 
+<p><em>Sherpa Digital at <a href="https://innovaccion.mx/"> Innovacción Virtual Program powered by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"></br>GitHub Campus Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: imonsh](https://img.shields.io/twitter/follow/imonsh?style=social)](https://twitter.com/imonsh)
