@@ -17,7 +17,7 @@ const Fer = {
   tools: [Node, Mongo, Flask, Azure, IBM Watson, Dialogflow, Embedded Systems],
   areas: ["IoT", "Chatbots", "Electronics"],
   techCommunities: {
-                        organizer: "Bravers", "Hack DHI", "Azure Capital", "Hackathon Innovaccion Virtual"
+                        organizer: "Bravers", "Hack DHI", "Azure Capital", "Hackathon Innovaccion Virtual",
                         events: "Hack DHI", "Nasa Space Apps", "LHD Tec León", "and many collabs",
                         speaker: "DroidCon", "PyCon Latam", "CONISOFT", "OctogatosConf soon..",
                         mentor: "in a lot of hackathons"
