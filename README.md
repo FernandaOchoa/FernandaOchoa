@@ -12,17 +12,18 @@
 
 ```javascript
 const Fer = {
-  pronouns: "She" | "Her",
-  code: [Javascript, HTML, CSS, Python, Java, C++], 
-  tools: [Node, Mongo, Flask, Azure, IBM Watson, Dialogflow, Embedded Systems],
-  areas: ["IoT", "Chatbots", "Electronics"],
+  pronouns: 'She' | 'Her',
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
+  tools: ['Node', 'Mongo', 'Flask', 'Azure', 'IBM Watson', 'Dialogflow','GCP', 'Embedded Systems'],
+  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data'],
   techCommunities: {
-                        organizer: "Bravers", "Hack DHI", "Azure Capital", "Hackathon Innovaccion Virtual",
-                        events: "Hack DHI", "Nasa Space Apps", "LHD Tec León", "and many collabs",
-                        speaker: "DroidCon", "PyCon Latam", "CONISOFT", "OctogatosConf soon..",
-                        mentor: "in a lot of hackathons"
+                        host: 'LatinXperts',
+                        organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
+                        events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
+                        speaker: 'DroidCon', 'PyCon Latam', 'CONISOFT', 'OctogatosConf','Streamyard Level Up Summit',
+                        mentor: 'in a lot of hackathons'
                       },
- challenge: "I'm Sherpa Digital in a student program with around 200k attendees by next 2 months.. "
+ challenge: 'I'm Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
 }
 ```
 
