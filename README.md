@@ -23,7 +23,7 @@ const Fer = {
                         speaker: 'DroidCon', 'PyCon Latam', 'CONISOFT', 'OctogatosConf','Streamyard Level Up Summit',
                         mentor: 'in a lot of hackathons'
                       },
- challenge: 'I'm Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
+ challenge: 'I'm a Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
 }
 ```
 
