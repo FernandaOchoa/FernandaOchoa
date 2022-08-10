@@ -1,7 +1,11 @@
 <h2> Hey, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
 
-<p><em>Learning Producer and Mission Commander at <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/"> Innovacción Virtual Program powered by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"></br>GitHub Campus Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"> 
+
+<p><em>Head of Product and IT at <a href="https://daliaempower.com/"> @DaliaEmpower </a><img src="https://daliaempower.com/static/daliaLogo-7773d259fd9a0644b34df1c848b29e0c.png" width="120">
+</br>GitHub Field Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>
+
+<p><em>Past: Learning Producer and Mission Commander at <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/"> Innovacción Virtual Program powered by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: imonsh](https://img.shields.io/twitter/follow/imonsh?style=social)](https://twitter.com/imonsh)
@@ -15,7 +19,7 @@ const Fer = {
   pronouns: 'She' | 'Her',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
   tools: ['Node', 'Mongo', 'Flask', 'Azure', 'IBM Watson', 'Dialogflow','GCP', 'Embedded Systems'],
-  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data'],
+  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data', 'Product'],
   techCommunities: {
                         host: 'LatinXperts',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
