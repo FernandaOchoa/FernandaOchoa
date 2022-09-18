@@ -1,13 +1,17 @@
-<h2> Hey, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
+<h2> Hey Folks, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
 
 
-<p><em>Head of Product and IT at <a href="https://daliaempower.com/"> @DaliaEmpower </a><img src="https://daliaempower.com/static/daliaLogo-7773d259fd9a0644b34df1c848b29e0c.png" width="120">
-</br>GitHub Field Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>
-Host at @LatinXperts <a href="https://latinxperts.herokuapp.com/">síguenos y únete a la comunidad aquí</a><img src="https://user-images.githubusercontent.com/9124597/190542716-b9a7c13a-7797-4ede-938e-2237ffdad394.png" width="30"></em></p>
+<p><em>Head of Product and IT at <a href="https://daliaempower.com/"> @DaliaEmpower </a><img src="https://daliaempower.com/static/daliaLogo-7773d259fd9a0644b34df1c848b29e0c.png" width="120"></em></p>
 
-<p><em>Past: Learning Producer and Mission Commander at <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/"> Innovacción Virtual Program powered by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"> 
+<p><em>GitHub Field Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>
+<p><em>Host at @LatinXperts <a href="https://latinxperts.herokuapp.com/">únete a la comunidad aquí</a><img src="https://user-images.githubusercontent.com/9124597/190542716-b9a7c13a-7797-4ede-938e-2237ffdad394.png" width="30">
 </em></p>
+
+<p><em>Past: Producer and Sherpa Digital - MC at <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/"> Innovacción Virtual Program powered by Microsoft </a><img src="https://media.giphy.com/media/lkdPnAgct5JYvnddL9/giphy.gif" width="30"> 
+</em></p>
+
+ ### Social
 
 [![Twitter: imonsh](https://img.shields.io/twitter/follow/imonsh?style=social)](https://twitter.com/imonsh)
 [![Linkedin: FernandaOchoa](https://img.shields.io/badge/-FernandaOchoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandaochoa8/)](https://www.linkedin.com/in/fernandaochoa8/)
@@ -26,36 +30,60 @@ const Fer = {
                         host: 'LatinXperts',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
                         events: 'Hack DHI', 'Nasa Space Apps', 'Office 365 Capital', 'LHD Tec León', 'and many collabs',
-                        speaker: 'DroidCon', 'PyCon Latam', 'CONISOFT', 'OctogatosConf','Streamyard Level Up Summit',
-                        mentor: 'in a lot of hackathons'
+                        speaker: '#DroidCon', '#PyCon Latam', '#CONISOFT', '#OctogatosConf','#Streamyard Level Up Summit','#CODIGOFEST',
                       },
- challenge: 'I'm a Learning producer at Launch X by Innovacción Virtual - Microsoft a program with around 200k attendees for the next 3 months... '
+ challenge: 'I designed a community model that allows members to strengthen their professional profile in a creative, safe and collaborative environment.'
 }
 ```
 
-## Mi contenido
+### Mi contenido
 
 [![Inteligencia Artificial](https://img.shields.io/github/stars/FernandaOchoa/AI-Fundamentals-Azure?label=AI%20Fundamentals%20Azure&style=social)](https://github.com/FernandaOchoa/AI-Fundamentals-Azure) [![Programación con Python](https://img.shields.io/github/stars/FernandaOchoa/CursoIntroPython?label=Curso%20de%20programación%20con%20python&style=social)](https://github.com/FernandaOchoa/CursoIntroPython)
 [![Streaming like a Pro](https://img.shields.io/github/stars/FernandaOchoa/HowToStreamLikeAPro?label=How%20to%20Stream%20like%20a%20Pro&style=social)](https://github.com/FernandaOchoa/HowToStreamLikeAPro)
 
-## LatinXperts Community
+### LatinXperts Community
 
 Hace un año inicié un programa en Twitch llamado **LatinXperts**, ahora con mis amix @CarloGilmar y @ultranerd dirigimos la comunidad híbrida, con meetups presenciales que son transmitidos, grupos de estudio, talleres y conferencias. 
 
-### Próximos eventos: 
+![LatinXperts Banners](https://user-images.githubusercontent.com/9124597/190833811-e8b1328c-657d-4474-93f2-d8d1300fbc55.png)
 
-![image](https://user-images.githubusercontent.com/9124597/190522447-7ec5df7a-07be-4a91-9382-8458fc28a11a.png)
+LatinXperts inició en el 2021 como un show de Twitch por parte del GitHub Stream Team, transmitido durante 14 episodios en el canal de **GitHub Education**. Con el objetivo de empoderar e inspirar a las juventudes de América Latina a través de entrevistas con personalidades increíbles de la industria tech. 
 
-### Únete a nuestra organización
+Ahora, somos una comunidad híbrida, con el mismo objetivo y con el interés de conocer, conectar, colaborar y aprender juntos de lo mucho que tiene por ofrecer el mundo de la tecnología. 
 
-**Una forma sencilla de no perderte ningún update es ingresando a la organización**
+#### ¿Por qué ser parte de la comunidad?
 
-* Ingresa al link [AQUÍ](https://latinxperts.herokuapp.com/)
-* Escribe tu user de GitHub
-* Revisa tu email para aceptar la invitación
+¡Acelera tu carrera, tus habilidades y haz crecer tu red de contactos, mientras te diviertes!
 
-![image](https://user-images.githubusercontent.com/9124597/190541513-6d25c512-6e50-411c-b6f0-97e28466aeb9.png)
+Únete a la comunidad para mantenerte al día.
 
+#### Beneficios de la comunidad de **LatinXperts**
+
+* **Discussions:** Convive en un entorno inclusivo, seguro y de apoyo en discusiones que van desde Git y GitHub desde cero, hasta hablar en público y hackatones.
+
+* **HacktoberFest:** Colabora en proyectos interesantes, aumenta tu capacidad de descubrimiento.
+
+* **Organización de GitHub:** Conoce los logros de los miembros de la comunidad, el contenido exclusivo y los próximos eventos híbridos.
+
+* **LinkedIn:** Haz crecer tu red profesional en LinkedIn añadiendo LatinXperts a tu perfil en la sección de voluntariado.
+
+
+#### ¿Cómo unirme a la comunidad?
+
+Sigue estos pasos: 
+
+- [ ] Ingresa al siguiente link [Soy el LINK](https://latinxperts.herokuapp.com) 
+- [ ] Escribe tu **Usuario de GitHub** sin el @
+    - <img width="432" alt="Captura de Pantalla 2022-09-16 a la(s) 20 02 16" src="https://user-images.githubusercontent.com/9124597/190834416-4f7a4846-e755-4c24-a54c-b7a7625c9c01.png">
+    - Te enviaremos un email para que te unas a la organización
+- [ ] Acepta la invitación
+- [ ] Ingresa al foro de la comunidad para ver nuestros próximos eventos y contenido exclusivo [Soy el enlace al foro](https://github.com/LatinXperts/CommunityFolks/discussions)
+
+#### ¡Listo, ahora eres un@ LatinXpert!
+
+**Al ingresar a la organización, foros, cursos, eventos y actividades derivadas de la comunidad, estás aceptando el código de conducta. El cuál puedes consultar [aquí](https://github.com/LatinXperts/.github/blob/main/CodeOfConduct.md)**
+
+---
 
 ### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
