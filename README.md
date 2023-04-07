@@ -19,10 +19,11 @@
 ```javascript
 const Fer = {
   pronouns: 'She' | 'Her',
+  pastCompanies:['Microsoft', 'CodigoFacilito', 'GitHub', 'NinjaWeb', 'Auribox', 'Google']
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'],
   lowCodeTools: ['Google Workspace', 'Canva', 'Notion', 'Slack', 'OBS and Live Streaming Expert'],
   cloud: ['Azure', 'IBM Watson', 'GCP', 'Firebase', 'Heroku', 'Netlify','AWS'],
-  tools: ['Node', 'Mongo', 'Flask', 'Dialogflow','Raspberry', 'Esp32',''Esp8266','Adafruit', 'Particle','Embedded Systems'],
+  tools: ['Node', 'Mongo', 'Flask', 'Dialogflow','Raspberry', 'Esp32','Esp8266','Adafruit', 'Particle','Embedded Systems'],
   areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
   techCommunities: {
                         host: 'LatinXperts',
