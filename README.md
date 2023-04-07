@@ -1,6 +1,6 @@
 <h2> Hey Folks, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
 <img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
-<p><em>Head of Product and IT at <a href="https://daliaempower.com/"> @DaliaEmpower </a><img src="https://daliaempower.com/static/daliaLogo-7773d259fd9a0644b34df1c848b29e0c.png" width="120"></em></p>
+<p><em>Product and IT Director at <a href="https://daliaempower.com/"> @DaliaEmpower </a><img src="https://daliaempower.com/static/daliaLogoBlanco-6479feb7ef7af5fe3ce1a33f9d0f63be.png" width="120"></em></p>
 <p><em>GitHub Field Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>
 <p><em>Host at @LatinXperts <a href="https://latinxperts.herokuapp.com/">únete a la comunidad aquí</a><img src="https://user-images.githubusercontent.com/9124597/190542716-b9a7c13a-7797-4ede-938e-2237ffdad394.png" width="30">
 </em></p>
@@ -19,9 +19,11 @@
 ```javascript
 const Fer = {
   pronouns: 'She' | 'Her',
-  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
-  tools: ['Node', 'Mongo', 'Flask', 'Azure', 'IBM Watson', 'Dialogflow','GCP', 'Embedded Systems'],
-  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data', 'Product'],
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'],
+  lowCodeTools: ['Google Workspace', 'Canva', 'Notion', 'Slack', 'OBS and Live Streaming Expert'],
+  cloud: ['Azure', 'IBM Watson', 'GCP', 'Firebase', 'Heroku', 'Netlify','AWS'],
+  tools: ['Node', 'Mongo', 'Flask', 'Dialogflow','Raspberry', 'Esp32',''Esp8266','Adafruit', 'Particle','Embedded Systems'],
+  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
   techCommunities: {
                         host: 'LatinXperts',
                         organizer: 'Bravers', 'Hack DHI' 'Azure Capital', 'Hackathon Innovaccion Virtual',
