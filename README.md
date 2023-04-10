@@ -19,7 +19,7 @@
 ```javascript
 const Fer = {
   pronouns: 'She' | 'Her',
-  pastCompanies:['Microsoft', 'CodigoFacilito', 'GitHub', 'NinjaWeb', 'Auribox', 'Google']
+  pastCompanies:['Microsoft', 'CodigoFacilito','MagmaLabs', 'GitHub', 'NinjaWeb', 'Auribox', 'Google']
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'],
   lowCodeTools: ['Google Workspace', 'Canva', 'Notion', 'Slack', 'OBS and Live Streaming Expert'],
   cloud: ['Azure', 'IBM Watson', 'GCP', 'Firebase', 'Heroku', 'Netlify','AWS'],
