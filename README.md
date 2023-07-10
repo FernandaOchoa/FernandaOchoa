@@ -50,44 +50,8 @@ LatinXperts inició en el 2021 como un show de Twitch por parte del GitHub Strea
 
 Ahora, somos una comunidad híbrida, con el mismo objetivo y con el interés de conocer, conectar, colaborar y aprender juntos de lo mucho que tiene por ofrecer el mundo de la tecnología. 
 
-#### ¿Por qué ser parte de la comunidad?
-
-¡Acelera tu carrera, tus habilidades y haz crecer tu red de contactos, mientras te diviertes!
-
-Únete a la comunidad para mantenerte al día.
-
-#### Beneficios de la comunidad de **LatinXperts**
-
-* **Discussions:** Convive en un entorno inclusivo, seguro y de apoyo en discusiones que van desde Git y GitHub desde cero, hasta hablar en público y hackatones.
-
-* **HacktoberFest:** Colabora en proyectos interesantes, aumenta tu capacidad de descubrimiento.
-
-* **Organización de GitHub:** Conoce los logros de los miembros de la comunidad, el contenido exclusivo y los próximos eventos híbridos.
-
-* **LinkedIn:** Haz crecer tu red profesional en LinkedIn añadiendo LatinXperts a tu perfil en la sección de voluntariado.
-
-
-#### ¿Cómo unirme a la comunidad?
-
-Sigue estos pasos: 
-
-- [ ] Ingresa al siguiente link [Soy el LINK](https://latinxperts.herokuapp.com) 
-- [ ] Escribe tu **Usuario de GitHub** sin el @
-    - <img width="432" alt="Captura de Pantalla 2022-09-16 a la(s) 20 02 16" src="https://user-images.githubusercontent.com/9124597/190834416-4f7a4846-e755-4c24-a54c-b7a7625c9c01.png">
-    - Te enviaremos un email para que te unas a la organización
-- [ ] Acepta la invitación
-- [ ] Ingresa al foro de la comunidad para ver nuestros próximos eventos y contenido exclusivo [Soy el enlace al foro](https://github.com/LatinXperts/CommunityFolks/discussions)
-
-#### ¡Listo, ahora eres un@ LatinXpert!
-
-**Al ingresar a la organización, foros, cursos, eventos y actividades derivadas de la comunidad, estás aceptando el código de conducta. El cuál puedes consultar [aquí](https://github.com/LatinXperts/.github/blob/main/CodeOfConduct.md)**
 
 ---
-
-### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
 
 <img src="https://64.media.tumblr.com/tumblr_m61fepJlP51rr9d7p.gif" width="60"> <em><b> "20 sec of courage is all that you need to start believing in you"</b> </em>
 
