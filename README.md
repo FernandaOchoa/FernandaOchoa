@@ -41,6 +41,7 @@
 ```javascript
 const Fer = {
   pronouns: 'She' | 'Her',
+  now: 'Cybersecurity at Google',
   pastCompanies:['DaliaEmpower','Microsoft', 'CodigoFacilito','MagmaLabs', 'GitHub', 'NinjaWeb', 'Auribox', 'Google']
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'],
   lowCodeTools: ['Google Workspace', 'Canva', 'Notion', 'Slack', 'OBS and Live Streaming Expert'],
