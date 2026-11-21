@@ -22,7 +22,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaOchoa&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com?user=FernandaOchoa&theme=dark&hide_border=true"
         alt="Github Stats"
       />
     </td>
